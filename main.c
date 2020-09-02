@@ -1,7 +1,7 @@
 // Author: Dylan Meza dmm7036@psu.edu
-// Contributor: Soham Mishra svm6422@psu.edu
-// Contributor: Adnan Traore aqt5519@psu.edu
-// Contributor: Sydney Wetzel skw5571@psu.edu
+// Collaborator: Soham Mishra svm6422@psu.edu
+// Collaborator: Adnan Traore aqt5519@psu.edu
+// Collaborator: Sydney Wetzel skw5571@psu.edu
 
 #include <stdio.h>
 #include <readline/readline.h>
